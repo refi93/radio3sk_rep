@@ -51,7 +51,7 @@ nosetests.xml
 *.db
 *.sqlite
 env
-streamer/songs
+*.mp3
 *.m3u
 
 # Compiled source #
